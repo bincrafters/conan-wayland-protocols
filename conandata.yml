@@ -1,4 +1,4 @@
 sources:
-  "1.0.0":
-    url: "https://github.com/libauthor/libname"
-    sha256: "98f6f57aab0a424469619ed3047728f0d3901ce8f0dea919c11e7966d807e870"
+  "1.20":
+    url: "https://wayland.freedesktop.org/releases/wayland-protocols-1.20.tar.xz"
+    sha256: "9782b7a1a863d82d7c92478497d13c758f52e7da4f197aa16443f73de77e4de7"
